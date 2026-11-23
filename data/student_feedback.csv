@@ -1,0 +1,51 @@
+student_id,feedback,sentiment
+1,Teaching is excellent,Positive
+2,Classes are boring,Negative
+3,Teacher explains very well,Positive
+4,The lectures are difficult,Negative
+5,The course is average,Neutral
+6,I really enjoy learning,Positive
+7,The teaching method is poor,Negative
+8,The class is okay,Neutral
+9,Very helpful teacher,Positive
+10,Not satisfied with lectures,Negative
+ 11,The teacher explains concepts clearly,Positive
+12,I enjoy attending the classes,Positive
+13,Excellent teaching experience,Positive
+14,The lectures are very interesting,Positive
+15,The teacher is supportive,Positive
+16,I learned many new things,Positive
+17,Very good teaching method,Positive
+18,The course is informative,Positive
+19,The teacher is knowledgeable,Positive
+20,The class was wonderful,Positive
+21,Teaching is confusing,Negative
+22,I do not understand the lectures,Negative
+23,The classes are boring,Negative
+24,Very poor teaching method,Negative
+25,I am unhappy with the course,Negative
+26,The teacher does not explain properly,Negative
+27,The lectures are too difficult,Negative
+28,Not a good learning experience,Negative
+29,The course is disappointing,Negative
+30,I dislike these classes,Negative
+31,The course is average,Neutral
+32,Teaching is okay,Neutral
+33,The class is normal,Neutral
+34,Nothing special about the lectures,Neutral
+35,The course is satisfactory,Neutral
+36,The teaching method is acceptable,Neutral
+37,The class was moderate,Neutral
+38,My experience was average,Neutral
+39,The lectures are fine,Neutral
+40,The course is neither good nor bad,Neutral
+41,Very helpful lectures,Positive
+42,Great learning environment,Positive
+43,The teacher makes learning easy,Positive
+44,I am satisfied with teaching,Positive
+45,The explanations are excellent,Positive
+46,The lessons are useful,Positive
+47,The teacher is friendly,Positive
+48,Interesting and useful classes,Positive
+49,The course content is good,Positive
+50,I love this learning experience,Positive
